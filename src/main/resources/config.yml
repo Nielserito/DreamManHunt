@@ -1,7 +1,7 @@
-assassins-insta-kill-speedrunner: false
+assassins-insta-kill-speedrunner: true
 compass-tracking: true
-compass-give: false
+compass-give: true
 compass-particle: true
-compass-particle-in-nether: false
+compass-particle-in-nether: true
 compass-random-different-worlds: true
-freeze-assassin-when-seen: false
+freeze-assassin-when-seen: true
